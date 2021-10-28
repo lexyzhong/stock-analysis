@@ -7,12 +7,37 @@ The purpose of this project is to refractor the original script in order to effi
 
 ![VBA_Challenge_2017-Stock-Performance.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Challenge_2017-Stock-Performance.PNG)
 
+In 2017, all stocks except TERP had a positive return. DQ had the highest return with +199.4%, followed by SEDG with +184.5%, and ENPH with +129.5%.
+
 ![VBA_Challenge_2018-Stock-Performance.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Challenge_2018-Stock-Performance.PNG)
 
+In 2018, all stocks except ENPH and RUN had a negative return. ENPH is the only stock that had a positive return in both years. ENPH also had the highest total daily volume in 2018. Overall, the data suggests that of the stocks analyzed, ENPH is the best investment choice.
+
+
 ### Original Script vs. Refractored Script
-- execution times
-- show matching output
+Both the original script and refractored script gave the same output. However, the refractored script executed almost 7x faster.
+
+**Original:**
+
+![VBA_Original_2017.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Original_2017.PNG)
+![VBA_Original_2018.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Original_2018.PNG)
+
+**Refractored:**
+
+![VBA_Challenge_2017.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2018.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
+Refractoring code presents several advantages and disadvantages:
+
+**Advantages:**
+- code will execute faster
+- code will be better organized
+- more efficient code is better suited for processing larger datasets
+
+**Disadvantages:**
+- longer to write as it is a multi-step process involving numerous cycles of coding and testing  
+- risk of introducing bugs with new code
+
 - advantages & disadvantages of refractoring code
 - how these pros and cons apply to refratoring original VBA script
