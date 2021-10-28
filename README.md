@@ -5,7 +5,7 @@ The purpose of this project is to refractor the original script in order to effi
 ## Results
 ### Stock Performance in 2017 vs. 2018
 
-      ![README-report_resources/README-Report_YEAR.PNG](https://github.com/lexyzhong/kickstarter-analysis/blob/main/resources/README-report_resources/README-Report_YEAR.PNG)
+      ![VBA_Challenge_2017-Stock-Performance.PNG](https://github.com/lexyzhong/stock-analysis/blob/main/Resources/VBA_Challenge_2017-Stock-Performance.PNG)
 
 ### Original Script vs. Refractored Script
 - execution times
