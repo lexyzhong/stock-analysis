@@ -39,5 +39,4 @@ Refractoring code presents several advantages and disadvantages:
 - longer to write as it is a multi-step process involving numerous cycles of coding and testing  
 - risk of introducing bugs with new code
 
-- advantages & disadvantages of refractoring code
-- how these pros and cons apply to refratoring original VBA script
+For this project, although the refractored code executed almost 7x faster than the original, the improvement is not as apparent to the user as the original script was already fast and ran in under a second. Therefore, with this dataset, refractoring the original script is not absolutely necessary. However, if we were to apply the scripts to larger datasets, the benefits of the refractored code will become apparent.
