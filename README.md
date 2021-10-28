@@ -1,6 +1,6 @@
 # 2017 & 2018 Stock Analyses with Refractored VBA Script
 ## Overview of Project
-Here, we will be visualizing the relationship between campaign outcomes and campaign launch date for Kickstarter fundraising campaigns for plays. We will also be visualizing the relationship between campaign outcomes and campaign goals. We will provide an overview of the analysis method used and any challenges faced. Lastly, we will discuss the conclusions that can be drawn from the analysis and its limitations.
+The purpose of this project is to refractor the original script in order to efficiently analyze stock performance by only looping thorugh the entire dataset once. Doing so will allow for the code to run faster, thereby allowing for it to be repurposed for large datasets. 
 
 ## Results
 ### Stock Performance in 2017 vs. 2018
